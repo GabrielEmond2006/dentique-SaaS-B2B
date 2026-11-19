@@ -1,5 +1,5 @@
 
-namespace ClientPulse.Models;
+namespace Dentique.Models;
 
 public class Organization
 {
